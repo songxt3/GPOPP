@@ -1,4 +1,4 @@
-# GPOPP in DARTS search space for the brain MRI task
+# GPOPP in DARTS-like search space for the brain MRI task
 
 The codes have been tested on Python 3.6.
 

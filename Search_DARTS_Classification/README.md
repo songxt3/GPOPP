@@ -1,4 +1,4 @@
-# GPOPP in DARTS search space for image classification
+# GPOPP in DARTS search space for the image classification task
 
 The codes have been tested on Python 3.7.
 

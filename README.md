@@ -13,3 +13,5 @@ GPOPP/
 ```
 
 **You can follow the README.md in each subfolder to run the code.**
+
+*The checkpoint of the ImagetNet32 network model is available at: https://drive.google.com/file/d/1PEs4lxRQIJXszCxb3Lt16_-JSZFeRWc7/view?usp=drive_link*

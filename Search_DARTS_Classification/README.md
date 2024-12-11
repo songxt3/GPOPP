@@ -32,5 +32,5 @@ python tools_open_domain/train_darts_imgnet32.py --save_dir [your save dir]
 
 ImageNet:
 ```
-python tools_open_domain/Train_Imagenet/train_imagenet.py
+python tools_open_domain/Train_ImageNet/train_imagenet.py
 ```
